@@ -2,9 +2,9 @@
   "request_id": "REQ-2026-1107-titans",
   "artifact_title": "Titans: Learning to Memorize at Test Time",
   "artifact_identifier": "arXiv:2501.00663",
-  "selected_url": "",
-  "selected_stars": 0,
-  "priority": "",
-  "status": "pending",
-  "notes": ""
+  "selected_url": "https://github.com/lucidrains/titans-pytorch",
+  "selected_stars": 2005,
+  "priority": "HIGH",
+  "status": "reviewed",
+  "notes": "Most-starred community implementation; verified with metric-sorted and threshold queries."
 }
